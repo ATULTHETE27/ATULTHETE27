@@ -21,6 +21,9 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ATULTHETE27&limit=5&theme=darkhub&combine_all_yearly_contributions=true)
 
+### Most Used Technologies 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ATULTHETE27&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=ATULTHETE27&icon=1&color=4)](https://visitcount.itsvg.in)
 
