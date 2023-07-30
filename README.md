@@ -1,5 +1,5 @@
 # 💫 About Me: I'm Atul Thete.
-🔭 I’m currently working on PHP, Java and WordPress DEVELOPMENT.<br>👯 I’m looking to collaborate on PHP,Java and WordPress Projects.<br>🤝 I’m always like to learn new technologies.<br>🌱 I’m currently learning Java Full Stack Development and WordPress development.<br>💬 Ask me about PHP, HTML, JAVASCRIPT, MYSQL, CSS, C++, C, JAVA, WORDPRESS, etc.<br>⚡ Fun fact "Coding is Not Boring".
+🔭 I’m currently working on PHP, Java and WordPress Development.<br>👯 I’m looking to collaborate on PHP,Java and WordPress Projects.<br>🤝 I’m always like to learn new technologies.<br>🌱 I’m currently learning Java Full Stack Development and WordPress development.<br>💬 Ask me about PHP, HTML, JAVASCRIPT, MYSQL, CSS, C++, C, JAVA, WORDPRESS, etc.<br>⚡ Fun fact "Coding is Not Boring".
 
 
 ## 🌐 Socials:
