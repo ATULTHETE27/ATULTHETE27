@@ -1,5 +1,5 @@
 # 💫 About Me: I'm Atul Thete.
-🔭 I’m currently working on Dot NET Development.<br>👯 I’m looking to collaborate on Dot NET Projects.<br>🤝 I’m always like to learn new technologies.<br>🌱 I’m currently learning DotNET Full Stack Development.<br>💬 Ask me about ASP.NET Core, ASP.NET MVC, MSSQL Server, C#,PHP, HTML, JAVASCRIPT, MYSQL, CSS, C++, C, etc.<br>⚡ Fun fact "Coding is Not Boring".
+🔭 I’m currently working on Dot NET Development.<br>👯 I’m looking to collaborate on Dot NET Projects.<br>🤝 I’m always like to learn new technologies.<br>🌱 I’m currently learning DotNET Full Stack Development.<br>💬 Ask me about ASP.NET Core, ASP.NET MVC, MSSQL Server, C#, MYSQL, C++, etc.<br>⚡ Fun fact "Coding is Not Boring".
 
 
 ## 🌐 Socials:
